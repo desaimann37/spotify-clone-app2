@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/desaimann37/spotify-clone-new/static/css/main.c25d584d.css",
+    "main.js": "/desaimann37/spotify-clone-new/static/js/main.8ef40629.js",
+    "static/js/787.51fdaed3.chunk.js": "/desaimann37/spotify-clone-new/static/js/787.51fdaed3.chunk.js",
+    "index.html": "/desaimann37/spotify-clone-new/index.html",
+    "main.c25d584d.css.map": "/desaimann37/spotify-clone-new/static/css/main.c25d584d.css.map",
+    "main.8ef40629.js.map": "/desaimann37/spotify-clone-new/static/js/main.8ef40629.js.map",
+    "787.51fdaed3.chunk.js.map": "/desaimann37/spotify-clone-new/static/js/787.51fdaed3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c25d584d.css",
+    "static/js/main.8ef40629.js"
+  ]
+}
