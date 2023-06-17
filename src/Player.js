@@ -16,4 +16,5 @@ function Player({spotify}) {
   )
 }
 
+
 export default Player
